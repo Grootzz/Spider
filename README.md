@@ -1,2 +1,2 @@
-# Spider
-Spider game
+# Spider Game
+Spider game programed in Java
